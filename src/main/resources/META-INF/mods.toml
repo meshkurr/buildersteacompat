@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[1,)" # NeoForge 21.x compatible range
+
+license="MIT"
+
+[[mods]]
+modId="buildersteacompatibility"
+version="1.0.0"
+displayName="Builder's Tea Compatibility"
+authors="YourName"
+description='''
+Changes builder's tea to be oriented like farmer's delight items.
+'''
+
+[[dependencies.buildersteacompatibility]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.219,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.buildersteacompatibility]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.buildersteacompatibility]]
+modId = "create"
+type = "required"
+versionRange = "[6.0.10,6.1.0)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.buildersteacompatibility]]
+modId="farmersdelight"
+type="optional"
+versionRange="[1.3.1)"
+ordering="AFTER"
+side="CLIENT"

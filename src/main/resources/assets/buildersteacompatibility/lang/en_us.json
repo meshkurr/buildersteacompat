@@ -1,0 +1,13 @@
+{
+  "itemGroup.buildersteacompatibility": "Example Mod Tab",
+  "block.buildersteacompatibility.example_block": "Example Block",
+  "item.buildersteacompatibility.example_item": "Example Item",
+
+  "buildersteacompatibility.configuration.title": "BuildersTeaCompatibility Configs",
+  "buildersteacompatibility.configuration.section.buildersteacompatibility.common.toml": "BuildersTeaCompatibility Configs",
+  "buildersteacompatibility.configuration.section.buildersteacompatibility.common.toml.title": "BuildersTeaCompatibility Configs",
+  "buildersteacompatibility.configuration.items": "Item List",
+  "buildersteacompatibility.configuration.logDirtBlock": "Log Dirt Block",
+  "buildersteacompatibility.configuration.magicNumberIntroduction": "Magic Number Text",
+  "buildersteacompatibility.configuration.magicNumber": "Magic Number"
+}

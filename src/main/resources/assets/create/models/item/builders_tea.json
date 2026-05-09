@@ -1,0 +1,11 @@
+{
+  "parent": "create:item/builders_tea",
+  "overrides": [
+    {
+      "predicate": {
+        "buildersteacompatibility:fd_style": 1.0
+      },
+      "model": "buildersteacompatibility:item/builders_tea_fd"
+    }
+  ]
+}
